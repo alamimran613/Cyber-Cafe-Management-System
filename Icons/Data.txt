@@ -1,0 +1,23 @@
+ Serial No.
+
+ Date
+
+ System No.
+
+ User name
+
+ address
+
+ mobile
+
+ login time
+
+ logout time
+
+ usage time
+
+ cost
+
+ Today collection
+
+ total collection

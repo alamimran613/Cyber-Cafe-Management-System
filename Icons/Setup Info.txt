@@ -1,0 +1,14 @@
+1. Welcome -   Welcome to "Cyber Cafe Management System" Installation Wizard.
+
+2. General Information - Cyber Cafe Management System is design to manage the Cyber Cafe, Such as:- Time Management of System, User Information, Print User Details etc.
+
+3. License Information - This is Trail Version which is use only 10 Times Usage Limit. After ending usage limit please Uninstall this Software.                                                                                                                                                             For Full Version Contact Developer.
+
+
+If you are agree given above License Information Then Press "Yes" otherwise Press "No".
+
+4. Destination Folder
+
+5. Installation complete - Thanks For Installing this Software.                                       Press "Exit".
+
+
